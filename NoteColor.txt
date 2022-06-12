@@ -1,0 +1,5 @@
+Code Color Zenius
+Ungu Tua: 6A1B9A
+Ungu Muda: D65DEC
+Orange : FFBD00
+Putih : FFFFFF
